@@ -1,3 +1,5 @@
+
+
 # Validador de c&eacute;dulas de identidad
 
 Para usarlo en tu aplicación web incluir `ci.js`:
@@ -26,3 +28,6 @@ https://picandocodigo.github.io/ci_js
 * **Javascript**
   * Plugin para jQuery: https://github.com/picandocodigo/ci.jquery
   * Node - https://github.com/francocorreasosa/ci_node
+
+
+Fork de https://github.com/picandocodigo/ci_js   :D
